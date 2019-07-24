@@ -17,7 +17,7 @@ var timer = function (func, time){
 
 
 var index = function () {
-    console.log('123123123123123')''
+    console.log('123123123123123');
 };
 
 
